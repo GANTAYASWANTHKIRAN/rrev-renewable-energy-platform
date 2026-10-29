@@ -1,0 +1,6 @@
+{
+  "name": "RREV — Renewable Rural Energy Vision",
+  "description": "Rural clean energy startup platform offering modular battery swapping, solar backup, and farm energy packages across Andhra Pradesh and Telangana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
